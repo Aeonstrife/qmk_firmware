@@ -1,0 +1,14 @@
+{
+    "keyboard_name": "MW8X",
+    "manufacturer": "Maelkk",
+    "url": "https://github.com/Aeonstrife/MW8X",
+    "maintainer": "Maelkk",
+    "usb": {
+        "vid": "0x4A56",
+        "pid": "0x0007",
+        "device_version": "0.0.1"
+    },
+    "diode_direction": "ROW2COL",
+    "processor": "atmega32u4",
+    "bootloader": "atmel-dfu"
+}
